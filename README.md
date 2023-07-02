@@ -1,4 +1,3 @@
-<p >
 <a href="https://github.com/ibatulanandjp">
     <span style="font-family: Open Sans; font-weight: 700; font-size: 30px; color: #3FB8FF;">
         Atul Anand
