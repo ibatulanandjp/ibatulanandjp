@@ -1,4 +1,8 @@
 <!-- Introduction -->
+<img src="./images/banner.png">
+<br/>
+<br/>
+
 <h1>Hi there, I am Atul Anand 👋</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=500&size=20&duration=1000&pause=50&color=3FB8FF&width=500&height=35&lines=Software+Engineer%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Full+Stack+Developer%F0%9F%92%BB;Cloud+%26+DevOps+Enthusiast%E2%98%81%EF%B8%8F;Tech+Evangelist%F0%9F%9A%80" alt="Typing SVG" />
