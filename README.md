@@ -1,7 +1,6 @@
 <!-- Introduction -->
 <img src="./images/banner.png">
 <br/>
-<br/>
 
 <h1>Hi there, I am Atul Anand 👋</h1>
 
