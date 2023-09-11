@@ -9,17 +9,23 @@
 
 <!-- Links -->
 <div>
+    <a href="https://ibatulanand.vercel.app/">
+        <img src="https://img.shields.io/badge/-Portfolio-121212?style=for-the-badge&logo=firefox&logoColor=008eb7">
+    </a>
     <a href="https://www.linkedin.com/in/ibatulanand/">
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin">
     </a>
     <a href="mailto:ib.atulanand@gmail.com">
-        <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white">
+        <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a href="https://medium.com/@ibatulanand">
-        <img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white">
+        <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+    </a>
+    <a href="https://leetcode.com/ibatulanand/">
+        <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
     </a>
     <a href="https://github.com/ibatulanandjp">
-        <img src="https://komarev.com/ghpvc/?username=ibatulanandjp&style=flat-square">
+        <img src="https://komarev.com/ghpvc/?username=ibatulanandjp&style=for-the-badge">
     </a>
 </div>
 <br/>
@@ -49,12 +55,12 @@
                 <strong>Languages</strong>
             </td>
             <td>
-                <a href="https://python.org/">
-                    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
-                </a>
-                &emsp;
                 <a href="ttps://www.java.com/en/">
                     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+                </a>
+                &emsp;
+                <a href="https://python.org/">
+                    <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
                 </a>
                 &emsp;
                 <a href="https://www.javascript.com/en/">
@@ -74,6 +80,10 @@
             <td>
                 <a href="https://spring.io/" target="_blank">
                     <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
+                </a> 
+                &emsp;
+                <a href="https://hibernate.org/" target="_blank">
+                    <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white">
                 </a> 
                 &emsp;
                 <a href="https://nodejs.org/" target="_blank">
@@ -96,7 +106,7 @@
                 </a>
                 &emsp;
                 <a href="https://www.javascript.com/en/">
-                    <img alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"/>
+                    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"/>
                 </a>
                 &emsp;
                 <a href="https://www.html.com/en/">
@@ -105,6 +115,10 @@
                 &emsp;
                 <a href="https://www.css.com/en/">
                     <img alt="Css" src="https://img.shields.io/badge/Css-4481EB?style=flat&logo=css3&logoColor=white"/>
+                </a>
+                &emsp;
+                <a href="https://getbootstrap.com/">
+                    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white"/>
                 </a>
                 &emsp;
             </td>
@@ -123,11 +137,15 @@
                 </a>
                 &emsp;
                 <a href="https://redis.io/" target="_blank"> 
-                    <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white"/>
+                    <img alt="Redis" src="https://img.shields.io/badge/Redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white"/>
+                </a>
+                &emsp;
+                <a href="https://kafka.apache.org/" target="_blank"> 
+                    <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka"/>
                 </a>
                 &emsp;
                 <a href="https://www.rabbitmq.com/" target="_blank"> 
-                    <img alt="RabbitMQ" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=flat&logo=rabbitmq&logoColor=white"/>
+                    <img alt="RabbitMQ" src="https://img.shields.io/badge/Rabbitmq-%23FF6600.svg?&style=flat&logo=rabbitmq&logoColor=white"/>
                 </a>
                 &emsp;
             </td>
