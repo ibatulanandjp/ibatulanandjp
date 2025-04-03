@@ -1,5 +1,5 @@
 <!-- Introduction -->
-<img src="./images/banner.png">
+<img src="./images/ibatulanand-banner.png">
 <br/>
 
 <h1>Hi there, I am Atul Anand 👋</h1>
