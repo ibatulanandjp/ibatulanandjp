@@ -91,6 +91,14 @@
                     <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white">
                 </a>
                 &emsp;
+                <a href="https://flask.palletsprojects.com/" target="_blank">
+                    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white">
+                </a>
+                &emsp;
+                <a href="https://fastapi.tiangolo.com/" target="_blank">
+                    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
+                </a>
+                &emsp;
                 <a href="https://spring.io/" target="_blank">
                     <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
                 </a> 
